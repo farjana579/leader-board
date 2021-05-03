@@ -1,7 +1,25 @@
 body{
     background-color: #F3F1FF;
 }
-
+.navbar{
+    position: relative;
+}
 .navbar img{
     width:40px
 }
+main{
+    width: 870px;
+    background: #ffffff;
+}
+.top-player{
+    margin-top: 45px;
+}
+.player img{
+    width: 56px;
+}
+.blog img{
+    width: 66px;
+}
+  .bolg h2{
+      display: block;
+  }
